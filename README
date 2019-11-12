@@ -1,0 +1,24 @@
+/*******************************
+* Yixin Liang, yliang43
+* 2019 Summer CMPS101 PA1
+* README
+* brief description of the project
+*******************************/
+
+List.h
+- headers for List ADT, a module of the operation of the List type
+
+List.c
+- define each operation of the List type, creates a doubly linked list
+
+ListClient.c
+- test each function of the List ADT to see if it runs correctly and without memory leaks
+
+Lex.c
+- This program reads the strings from the input file, arrange them in lexicographic order and print them in the output file.
+
+Makefile
+- Creates executable binary files for both Lex.c and ListClient.c
+
+README
+- Gives a brief description of the project
